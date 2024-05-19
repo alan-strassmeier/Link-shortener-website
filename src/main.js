@@ -1,8 +1,9 @@
-import "./assets/style.css";
-import Toast from "vue-toastification";
-import "vue-toastification/dist/index.css";
 import { createApp } from "vue";
+import Toast from "vue-toastification";
 import App from "./App.vue";
+
+import "./assets/main.css";
+import "vue-toastification/dist/index.css";
 
 const app = createApp(App);
 app.use(Toast);
