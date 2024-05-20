@@ -207,4 +207,19 @@ span {
         width: 37.5rem;
     }
 }
+
+@media screen and (max-width: 500px) {
+    .container__form {
+        width: 23.5rem;
+    }
+
+    .input__wrapper {
+        width: auto;
+    }
+
+    .shorten__container {
+        width: 23.5rem;
+    }
+
+}
 </style>
