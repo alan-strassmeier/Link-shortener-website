@@ -197,4 +197,14 @@ span {
 .display {
     display: none
 }
+
+@media screen and (max-width: 900px) {
+    .container__form {
+        width: 37.5rem;
+    }
+
+    .shorten__container {
+        width: 37.5rem;
+    }
+}
 </style>
