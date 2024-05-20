@@ -202,11 +202,11 @@ span {
 
 @media screen and (max-width: 900px) {
     .shorten__container {
-        top: 24rem;
+        width: 37.5rem;
     }
 
     .container__form {
-        height: 33rem;
+        width: 37.5rem;
     }
 }
 </style>
