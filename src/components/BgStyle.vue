@@ -51,4 +51,10 @@
     height: 175px;
     margin: 0 20px;
 }
+
+@media screen and (max-width: 900px) {
+    .container__avisos {
+        display: none;
+    }
+}
 </style>
